@@ -1,10 +1,9 @@
 {
-  "latestVersion": "2.6.1",
-  "latestVersionCode": 26001,
-  "url": "https://filminja.fun/app/",
-  "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
-  ]
+update: "Yes",
+new_version: "2.6.1",
+apk_file_url: "https://filminja.fun/app.apk",
+update_log: "",
+target_size: "31M",
+new_md5: "e3c2897427ca42f968f0c87702f7d736",
+constraint: true,
 }
