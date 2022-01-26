@@ -1,0 +1,9 @@
+{
+  update: "Yes",
+  new_version: "2.6.1",
+  apk_file_url: "https://filminja.fun/app.apk",
+  update_log: "",
+  target_size: "31M",
+  new_md5: "e3c2897427ca42f968f0c87702f7d736",
+  constraint: true,
+}
